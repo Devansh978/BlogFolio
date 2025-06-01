@@ -24,10 +24,11 @@ A modern platform that seamlessly blends your portfolio with your blog—built w
 
 ## 🛠️ Tech Stack
 
-- **TypeScript** (91.6%)
-- **JavaScript** (5.1%)
-- **CSS** (2.7%)
-- **HTML** (0.6%)
+- **TypeScript** 
+- **JavaScript**
+- **Tailwind CSS**
+- **CSS** 
+- **HTML** 
 - **React** 
 
 ---
@@ -56,6 +57,7 @@ A modern platform that seamlessly blends your portfolio with your blog—built w
 ---
 
 ## 📸 Demo
+[Hosted Link](https://tangerine-cassata-85d024.netlify.app/)
 
 [Homepage](https://drive.google.com/file/d/1jZil3u1siMuHcTKqgLZ37uaJ9LsWB_VX/view?usp=sharing)
 
